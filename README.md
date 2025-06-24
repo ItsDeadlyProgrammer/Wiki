@@ -1,4 +1,4 @@
-# 🌐 WebViewApp
+# 🌐 WikiApp
 
 Welcome to **WebViewApp** — a simple and clean Android application built using **ViewBinding** and **WebView**. This app loads and displays the Wikipedia homepage inside an embedded browser-like interface. Ideal for Android beginners exploring WebView and ViewBinding!
 
